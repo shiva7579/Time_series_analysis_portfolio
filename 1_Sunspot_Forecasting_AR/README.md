@@ -1,4 +1,5 @@
 1. Sunspot Firecasting by AR model
+[Click here](https://nbviewer.org/github/shiva7579/Time_series_analysis_portfolio/blob/main/1_Sunspot_Forecasting_AR/Sunspot.ipynb)
 
 #selection of model<br>
 <img src="acfandpacf.png" width="600" /><br>
