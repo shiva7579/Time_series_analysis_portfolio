@@ -1,5 +1,5 @@
 Hannan-Rissanen_Algorithm
-[Click here](https://nbviewer.org/github/shiva7579/Time_series_analysis_portfolio/blob/main/1_Sunspot_Forecasting_AR/Sunspot.ipynb)
+[Click here](https://github.com/shiva7579/Time_series_analysis_portfolio/blob/main/3_Hannan-Rissanen_Algorithm/Hannan-Rissanen.ipynb)
 
 <br>
 Hannan-Rissanen is non-expensive alogorithm with a two-step OLS approach, enabling closed-form estimation and rapid model order grid screening for mixed ARMA models.
